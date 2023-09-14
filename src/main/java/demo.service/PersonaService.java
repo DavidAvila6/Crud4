@@ -1,4 +1,4 @@
-package com.sinfloo.demo.service;
+package demo.service;
 
 import org.hibernate.mapping.List;
 import org.springframework.beans.factory.annotation.Autowired;

@@ -1,4 +1,4 @@
-package com.sinfloo.demo.modelo;
+package demo.modelo;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
