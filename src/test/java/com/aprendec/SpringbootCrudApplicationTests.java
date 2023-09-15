@@ -1,10 +1,10 @@
-package com.crudkaje.crudkaje;
+package com.aprendec;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class CrudKajeApplicationTests {
+class SpringbootCrudApplicationTests {
 
 	@Test
 	void contextLoads() {

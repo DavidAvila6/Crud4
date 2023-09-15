@@ -1,13 +1,13 @@
-package com.crudkaje.crudkaje;
+package com.aprendec;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class CrudKajeApplication {
+public class SpringbootCrudApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(CrudKajeApplication.class, args);
+		SpringApplication.run(SpringbootCrudApplication.class, args);
 	}
 
 }
