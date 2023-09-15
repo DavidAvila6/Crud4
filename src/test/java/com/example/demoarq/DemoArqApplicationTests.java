@@ -1,13 +1,13 @@
-package com.aprendec;
+package com.example.demoarq;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class SpringbootCrudApplicationTests {
+class DemoArqApplicationTests {
 
-	@Test
-	void contextLoads() {
-	}
+    @Test
+    void contextLoads() {
+    }
 
 }
